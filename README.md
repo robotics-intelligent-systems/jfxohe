@@ -1,3 +1,3 @@
 # Open Hardware Ecommerce Store
 
-Open Hardware: They offer an online store where you can buy hardware products, including Arduino and other electronic components. You can choose products, add them to your cart, and make your purchase online. Shopizer is an open-source, scalable e-commerce platform designed for seamless deployment across any cloud infrastructure. Broadleaf Commerce CE - an eCommerce framework based on Java and Spring. uniCenta oPOS powerful commercial-grade open source Point Of Sale.
+Open Kiosk is an affordable, open-source POS solution that eliminates recurring fees and vendor lock-in. Create a complete retail kiosk using modern web technologies and real hardware components. Shopizer is an open-source, scalable e-commerce platform designed for seamless deployment across any cloud infrastructure. Broadleaf Commerce CE - an eCommerce framework based on Java and Spring. uniCenta oPOS powerful commercial-grade open source Point Of Sale.
